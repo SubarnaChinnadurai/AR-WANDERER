@@ -7,4 +7,25 @@ VIDEO LINK:https://youtu.be/3rvWHrbJASY?si=Up4AJv7oCwoo9s8G
 
 HOMEPAGE:SEARCHING A PLACE Eg.TAJ MAHAL
 
-![WhatsApp Image 2023-10-26 at 23 01 24](https://github.com/SubarnaChinnadurai/AR-WANDERER/assets/117588706/d5a62396-7b23-43a2-a3c3-3de184bda971)
+
+NEXTPAGE:SHOWS MAP AND LOCATION OF TAJ MAHAL
+
+
+
+NEXTPAGE:SHOWS PLACENAME,IMAGE AND DETAILS OF THE PLACE
+
+![WhatsApp Image 2023-10-26 at 23 10 39](https://github.com/SubarnaChinnadurai/AR-WANDERER/assets/117588706/ccb113ef-29a7-46e5-86ed-d17d623bd989)
+
+
+NEXTPAGE :AFTER PRESSING 3D VIEW ,IT SHOWS THE VIDEO OF AR VIEW OF TAJ MAHAL
+
+![WhatsApp Image 2023-10-26 at 23 10 39](https://github.com/SubarnaChinnadurai/AR-WANDERER/assets/117588706/2205d27a-7872-4235-92eb-888992b67298)
+
+
+NEXTPAGE :FINALLY DIFFERENT AR VIEW OF TAJ MAHAL
+
+![WhatsApp Image 2023-10-26 at 23 10 39](https://github.com/SubarnaChinnadurai/AR-WANDERER/assets/117588706/58c52d70-ae97-4d6f-b3eb-b5582be8e60c)
+
+
+
+
